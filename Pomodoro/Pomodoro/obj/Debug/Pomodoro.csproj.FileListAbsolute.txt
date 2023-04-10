@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\bin\Debug\Pomodoro.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\bin\Debug\Pomodoro.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\12-Şehirkodulist\Pomodoro\Pomodoro\Pomodoro\obj\Debug\Pomodoro.pdb
